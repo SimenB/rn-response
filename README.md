@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimenB/rn-response.svg)](https://greenkeeper.io/)
+
 1. `yarn install`
 1. `yarn start` to start the expo server
 1. `node server` to start the apollo server
