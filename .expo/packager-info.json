@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19003,
+  "expoServerPort": 19004,
+  "packagerPort": 19005,
+  "packagerPid": 58148,
+  "expoServerNgrokUrl": "https://n4-fia.folio.rn-response.exp.direct",
+  "packagerNgrokUrl": "https://packager.n4-fia.folio.rn-response.exp.direct",
+  "ngrokPid": 58175,
+  "webpackServerPort": null
+}
