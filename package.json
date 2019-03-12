@@ -16,7 +16,7 @@
     "graphql": "^14.1.1",
     "graphql-tag": "^2.10.1",
     "prettier": "^1.16.4",
-    "react": "16.5.0",
+    "react": "16.8.4",
     "react-apollo": "^2.5.2",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
   },
